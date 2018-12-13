@@ -1,0 +1,42 @@
+{
+  "legos": [
+    {
+      "creatorName": "Megan",
+      "legoName": "Project 2",
+      "legoShape": "square",
+      "legoColor": "3",
+      "id": 5
+    },
+    {
+      "creatorName": "Megan",
+      "legoName": "Project 3",
+      "legoShape": "round",
+      "legoColor": "4",
+      "id": 6
+    },
+    {
+      "creatorName": "Megan",
+      "legoName": "Project 4",
+      "legoShape": "square",
+      "legoColor": "4",
+      "id": 7
+    },
+    {
+      "creatorName": "Megan",
+      "legoName": "Project 12",
+      "legoShape": "round",
+      "legoColor": "5",
+      "id": 8
+    }
+  ],
+  "colors": [
+    {
+      "1": "Red",
+      "2": "Green",
+      "3": "Yellow",
+      "4": "Blue",
+      "5": "Orange",
+      "6": "Black"
+    }
+  ]
+}
